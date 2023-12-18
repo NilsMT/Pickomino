@@ -1,0 +1,261 @@
+<mxfile host="app.diagrams.net" modified="2023-06-16T13:59:18.213Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="yoB_W2jA1DEYk38nATiN" version="21.4.0" type="device">
+  <diagram name="Page-1" id="CsCzBUhraF9fQvseMStz">
+    <mxGraphModel dx="2261" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-1" target="BlIG-PN_yFB8hyHtCrtW-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-1" value="Lance les dés actifs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-11" target="BlIG-PN_yFB8hyHtCrtW-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-11" target="BlIG-PN_yFB8hyHtCrtW-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-11" value="je prend un pickomino ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-19" value="Obligatoire a chaque lancé&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="499" y="-110" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-20" value="La valeur ne doit pas avoir été gardé auparavant" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="209" y="-130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-21" value="Le ver vaut 5&lt;br&gt;&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="354" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-25" target="BlIG-PN_yFB8hyHtCrtW-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="sourcePoint" />
+            <mxPoint x="420" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-25" target="BlIG-PN_yFB8hyHtCrtW-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="sourcePoint" />
+            <mxPoint x="420" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-25" target="BlIG-PN_yFB8hyHtCrtW-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="sourcePoint" />
+            <mxPoint x="420" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-25" target="BlIG-PN_yFB8hyHtCrtW-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-25" value="choisi quel valeur je garde" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-26" target="BlIG-PN_yFB8hyHtCrtW-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="450" />
+              <mxPoint x="1500" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-26" target="BlIG-PN_yFB8hyHtCrtW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-26" value="je peux garder un dé ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-30" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-31" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-34" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="680" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-35" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="780" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-39" target="BlIG-PN_yFB8hyHtCrtW-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-39" target="BlIG-PN_yFB8hyHtCrtW-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-39" value="il vient d&#39;un joueur ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-40" target="BlIG-PN_yFB8hyHtCrtW-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-40" value="le joueur adverse perd le pickomino du dessus de sa pile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="965" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-41" target="BlIG-PN_yFB8hyHtCrtW-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1301" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-41" value="la poule commune a son pickomino retiré" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-44" value="On peut prendre un pickomino si celui-ci à la valeur &lt;b&gt;&lt;u&gt;est inférieur ou égales&lt;/u&gt;&lt;/b&gt;&amp;nbsp;aux dés inactifs" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="700" y="320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=47.5;entryDy=0;entryPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-11" target="BlIG-PN_yFB8hyHtCrtW-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="340" as="sourcePoint" />
+            <mxPoint x="790" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-46" target="BlIG-PN_yFB8hyHtCrtW-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-46" value="les dés sont choisi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-48" value="Il est impossible de conserver un dés 5 si le ver est pris (car ils valent pareil)" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="209" y="-270" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-20" target="BlIG-PN_yFB8hyHtCrtW-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-150" as="sourcePoint" />
+            <mxPoint x="140" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-52" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-53" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-55" target="BlIG-PN_yFB8hyHtCrtW-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-55" value="début du tour" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-60" value="fin du tour" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-61" target="BlIG-PN_yFB8hyHtCrtW-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-61" value="le joueur actif le récupère" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-64" value="&lt;b&gt;&lt;u&gt;poule commune&lt;/u&gt;&lt;/b&gt;&lt;br&gt;les pickomino n&#39;appartenant à personne&lt;br&gt;&lt;b&gt;&lt;u&gt;pile inactive&lt;br&gt;&lt;/u&gt;&lt;/b&gt;les pickomino qui ont soit été récupérer d&#39;un joueur soit qui ont été récupérer il y a plus d&#39;un tour&lt;br&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;pile active&lt;/b&gt;&lt;br&gt;les pickomino pioché au tour d&#39;avant&lt;br&gt;&lt;b&gt;&lt;u&gt;dé actif&lt;/u&gt;&lt;/b&gt;&lt;br&gt;dé qui peut être lancer&lt;br&gt;&lt;b&gt;&lt;u&gt;dé inactif&lt;/u&gt;&lt;/b&gt;&lt;br&gt;dé qui compte pour le score&lt;br&gt;&lt;b&gt;&lt;u&gt;cimetière commun&lt;/u&gt;&lt;/b&gt;&lt;br&gt;les pickomino pas sélectionnables par les deux joueurs&lt;br&gt;&lt;b&gt;&lt;u&gt;cimetière du joueur&lt;/u&gt;&lt;/b&gt;&lt;br&gt;les pickomino que le joueur ne pas pas prendre" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-413" y="-110" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-66" value="on ne peut pas en prendre si on à pas au moins un ver dans les dés inactifs" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="840" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-66" target="BlIG-PN_yFB8hyHtCrtW-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="230" as="sourcePoint" />
+            <mxPoint x="710" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-69" target="BlIG-PN_yFB8hyHtCrtW-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-69" value="est ce que c&#39;est celui du dessus ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="-50" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-73" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="870" y="-50" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-74" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="-80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-77" value="le pickomino présent dans la pile" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="-70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-61" target="BlIG-PN_yFB8hyHtCrtW-77" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="60" as="sourcePoint" />
+            <mxPoint x="1200" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-80" target="BlIG-PN_yFB8hyHtCrtW-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5DQkfj7Cj-z0AYbwVI3d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="BlIG-PN_yFB8hyHtCrtW-80" target="BlIG-PN_yFB8hyHtCrtW-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-80" value="j&#39;ai pris pickomino au tour d&#39;avant?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-81" target="BlIG-PN_yFB8hyHtCrtW-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-81" value="le joueur actif remet un de ses pickomino dans la poule commune" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-91" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="314" y="570" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-92" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="530" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DQkfj7Cj-z0AYbwVI3d-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="BlIG-PN_yFB8hyHtCrtW-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-93" value="le pickomino de la poule commune le plus haut va à la blacklist&amp;nbsp;commune" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-97" target="BlIG-PN_yFB8hyHtCrtW-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-97" value="le pickomino est ajouté à la blacklist du joueur adverse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-100" value="le pickomino ne doit pas être dans la blacklist commune&lt;br&gt;&lt;b&gt;ou&lt;/b&gt;&lt;br&gt;dans la blacklist du joueur actif" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="540" y="305" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-101" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-11" target="BlIG-PN_yFB8hyHtCrtW-100" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="245" as="sourcePoint" />
+            <mxPoint x="758" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-103" value="&lt;b&gt;&lt;u&gt;condition de fin du jeu&lt;/u&gt;&lt;/b&gt;&lt;br&gt;plus de pickomino dans la poule commune&lt;br&gt;&lt;b&gt;&lt;u&gt;score fin du jeu&lt;/u&gt;&lt;/b&gt;&lt;br&gt;somme des vers sur les pickomino que le joueur possède (pile)" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-413" y="170" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-105" target="BlIG-PN_yFB8hyHtCrtW-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BlIG-PN_yFB8hyHtCrtW-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="90.28571428571445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-105" value="c&#39;est la valeur exacte ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="60" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-109" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="900" y="60" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-110" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="30" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BlIG-PN_yFB8hyHtCrtW-112" value="&lt;u style=&quot;&quot;&gt;&lt;b&gt;pickomino&lt;br&gt;&lt;/b&gt;&lt;/u&gt;un domino avec un nombre:&lt;br&gt;21-36&lt;br&gt;et un nombre de vers :&lt;br&gt;1 pour 21-24&lt;br&gt;2 pour 25-28&lt;br&gt;3 pour 29-32&lt;br&gt;4 pour 33-36" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-413" y="305" width="163" height="155" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

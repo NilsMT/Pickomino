@@ -1,0 +1,153 @@
+* {
+    -fx-border-color : none ;
+}
+.vue  {
+    -fx-background-color : #00D4FF;
+    -fx-background-image: url("../Menu_BG.jpg");
+    -fx-alignment: center;
+    -fx-spacing: 15.0;
+}
+.titre_container {
+    -fx-alignment: center;
+}
+.titre{
+    /**/
+    -fx-padding : 20.0;
+}
+.partie{
+    /**/
+    -fx-padding : 20.0;
+    -fx-spacing : 20.0;
+    -fx-max-width: 750.0;
+}
+.creation_menu{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-alignment: center;
+    -fx-background-color : #0279BB;
+    -fx-background-radius : 20.0;
+    -fx-font-size : 20.0;
+    -fx-padding : 20.0;
+    -fx-spacing : 20.0;
+}
+.join_menu{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-alignment: center;
+    -fx-background-color : #0279BB;
+    -fx-background-radius : 20.0;
+    -fx-font-size : 20.0;
+    -fx-padding : 20.0;
+    -fx-spacing : 20.0;
+}
+
+.setting_game{
+    -fx-min-width : 20.0;
+    -fx-padding : 10.0;
+    -fx-spacing : 10.0;
+}
+.create_game{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-background-radius : 20.0;
+    -fx-background-color: linear-gradient(to top, rgba(255,165,0,1), rgba(255,218,0,1));
+}
+.create_game:hover {
+    -fx-background-color: linear-gradient(to top, rgb(255, 180, 50), rgb(255, 232, 94));
+}
+.type_game{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-alignment: center;
+    -fx-background-color : #00D4FF;
+    -fx-background-radius : 20.0;
+    -fx-font-size : 20.0;
+    -fx-padding : 10.0;
+    -fx-spacing: 60.0;
+}
+
+.player_number_container{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-alignment: center;
+    -fx-background-color : #00D4FF;
+    -fx-background-radius : 20.0;
+    -fx-font-size : 20.0;
+    -fx-padding : 10.0;
+    -fx-spacing: 40.0;
+}
+
+.number_label{
+    /**/
+}
+.player_number_game{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-background-radius : 20.0;
+}
+.local_game{
+    /**/
+}
+.online_game{
+    /**/
+}
+.join_game {
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-background-radius : 20.0;
+    -fx-background-color: linear-gradient(to top, rgba(255,165,0,1), rgba(255,218,0,1));
+}
+.join_game:hover {
+    -fx-background-color: linear-gradient(to top, rgba(219, 142, 1), rgba(255,218,0,1));
+}
+.join_setting_game{
+    -fx-padding : 10.0;
+    -fx-spacing: 10.0;
+}
+.container_id{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-alignment: center;
+    -fx-background-color : #00D4FF;
+    -fx-background-radius : 20.0;
+    -fx-font-size : 20.0;
+    -fx-padding : 10.0;
+    -fx-spacing: 40.0;
+}
+.container_key {
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-alignment: center;
+    -fx-background-color : #00D4FF;
+    -fx-background-radius : 20.0;
+    -fx-font-size : 20.0;
+    -fx-padding : 10.0;
+    -fx-spacing: 40.0;
+}
+.label_id{
+    /**/
+}
+.number_id{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-background-radius : 20.0;
+}
+.label_key{
+    /**/
+}
+.number_key{
+    -fx-border-color: white;
+    -fx-border-radius: 20.0;
+
+    -fx-background-radius : 20.0;
+}

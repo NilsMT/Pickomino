@@ -1,0 +1,21 @@
+.vue-fin {
+    -fx-background-color : #00D4FF;
+    -fx-background-image: url("../GameAssets/Menu_BG.jpg");
+    -fx-alignment: center;
+    -fx-spacing: 15.0;
+}
+.titre_container {
+    -fx-alignment: center;
+}
+.titre{
+    /**/
+    -fx-padding : 20.0;
+}
+/*===============================================================*/
+
+.section-fin {
+    -fx-alignment: center;
+    -fx-font-size : 60.0;
+    -fx-padding : 20.0;
+    -fx-spacing : 20.0;
+}

@@ -1,0 +1,4 @@
+package Controleur
+
+class ControleurRendrePickomino {
+}
