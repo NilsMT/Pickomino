@@ -1,0 +1,1 @@
+rootProject.name = "iut.pickomino.pickomino-server"
